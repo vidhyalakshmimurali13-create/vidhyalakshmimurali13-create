@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi there 👋, I'm Vidhyalakshmi
 
-<!--
-**vidhyalakshmimurali13-create/vidhyalakshmimurali13-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about learning, building, and exploring new technologies.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on personal and academic projects
+* 🌱 Learning web development, programming, and software engineering
+* 👯 Open to collaborating on interesting open-source projects
+* 💬 Ask me about coding, technology, and learning resources
+* 📫 Reach me through GitHub discussions or your preferred contact method
+* ⚡ Fun fact: I enjoy discovering new tools and solving challenging problems
+
+ Skills
+
+* Programming Languages: Python, Java, C, etc.
+* Web Technologies: HTML, CSS, JavaScript
+* Tools: Git, GitHub, VS Code
+
+Thanks for visiting my profile! 😊
